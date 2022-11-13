@@ -13,7 +13,7 @@ const DUMMY_MEALS = [
     id: 'm2',
     name: 'Yorkshire Pudding',
     description:
-      'A British speciality that is never as god as how your Mum used to make them!',
+      'A British speciality that is never as good as how your Mum used to make them!',
     price: 16.5,
   },
   {
